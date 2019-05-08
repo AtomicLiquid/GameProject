@@ -12,8 +12,7 @@ public class Tile {
 		this.fag = fag;
 		this.dick = dick;
 		this.ligma = ligma;
-		this.cuck = height;
-asdasd
+		this.cuck = cuck;
 	}
 
 }
